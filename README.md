@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giahuy1310
-- 👀 I’m interested in data science, football and basketball.
+- 👀 I’m interested in data science, and sports (football, basketball, badminton, etc).
 - 🌱 I’m currently learning Data Science at Ho Chi Minh International University.
 - 📫 How to reach me:
   - Email: nguyengiahuy13104@gmail.com
